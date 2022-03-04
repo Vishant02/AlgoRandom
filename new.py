@@ -1,3 +1,1 @@
 from pyteal import *
-
-
